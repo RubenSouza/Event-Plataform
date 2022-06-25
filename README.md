@@ -6,7 +6,7 @@ Este projeto é uma plataforma de eventos criado durante a semana do Ignite Lab,
 
 ### Preview
 
-<!-- [Clique Aqui](https://willowy-lily-45ee0a.netlify.app) -->
+[Clique Aqui](https://event-plataform-lglkl459o-rubensouza.vercel.app)
 
 ### Tecnologias
 
